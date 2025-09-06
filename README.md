@@ -43,5 +43,8 @@ npm run dev
 cd frontend
 npm install
 npm start
+## 🤝 Connect
+- LinkedIn: [Prathap C](https://www.linkedin.com/in/prathapc-tech-9070a6383)
+- Email: prathapc.tech@gmail.com
 
 
