@@ -32,5 +32,16 @@ Full-stack MERN e-commerce app with cart, checkout &amp; admin panel
 ## 📁 Project Structure
 ## ✅ Project Status
 🔨 Under active development
+## 🚀 Quick Start (Local)
+
+### Backend
+cd backend
+npm install
+npm run dev
+
+### Frontend
+cd frontend
+npm install
+npm start
 
 
